@@ -1,4 +1,4 @@
-linkcode
+
 Bu veri setini seçme nedenimiz video oyun sektörünün büyüklüğünü analiz etmektir.
 
 Bu veri seti:
